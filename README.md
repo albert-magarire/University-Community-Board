@@ -25,8 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='https://imgur.com/a/ZrfagdX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented features:
+[![Watch the video](https://www.nicepng.com/png/full/22-225492_watch-video-button-animated.png)](https://imgur.com/a/ZrfagdX)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
